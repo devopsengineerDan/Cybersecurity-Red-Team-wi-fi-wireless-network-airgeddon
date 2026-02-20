@@ -7,7 +7,7 @@ sudo apt-get install ethtool
 
 
 
-sudo apt install crunch bettercap hostapd-mana hostapd-wpe hcxhashtool dhcpd asleap hostapd mdk4 hcxhash2cap hcxdumptool hcxpcapngtool beef lighttpd curl
+sudo apt install nft packetforge-ng wpaclean etterlog besside-ng reaver  crunch bettercap hostapd-mana hostapd-wpe hcxhashtool dhcpd asleap hostapd mdk4 hcxhash2cap hcxdumptool hcxpcapngtool beef lighttpd curl
 
 
 9. evil-twin attack(monitor-mode)
